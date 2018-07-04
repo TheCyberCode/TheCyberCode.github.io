@@ -1,2 +1,0 @@
-# thecybercode.github.io
-HTML
